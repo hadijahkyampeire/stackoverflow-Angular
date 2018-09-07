@@ -49,7 +49,7 @@ html{
     margin: 0 auto;
 }
 header{
-    background: linear-gradient(rgba(0, 0, 0, 0.589), rgba(0, 0, 0, 0.568)),url(images/qabg.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.589), rgba(0, 0, 0, 0.568)),url(../../images/qabg.png);
     height: 100vh;
     background-size: cover;
     background-position: center;
